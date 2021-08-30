@@ -1,0 +1,7 @@
+C:\Users\lucas\source\repos\Avaliacao_Final_LucasDanielSilva\Classe\bin\Debug\Classe.exe.config
+C:\Users\lucas\source\repos\Avaliacao_Final_LucasDanielSilva\Classe\bin\Debug\Classe.exe
+C:\Users\lucas\source\repos\Avaliacao_Final_LucasDanielSilva\Classe\bin\Debug\Classe.pdb
+C:\Users\lucas\source\repos\Avaliacao_Final_LucasDanielSilva\Classe\obj\Debug\Classe.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\Avaliacao_Final_LucasDanielSilva\Classe\obj\Debug\Classe.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Avaliacao_Final_LucasDanielSilva\Classe\obj\Debug\Classe.exe
+C:\Users\lucas\source\repos\Avaliacao_Final_LucasDanielSilva\Classe\obj\Debug\Classe.pdb

@@ -1,0 +1,6 @@
+C:\Users\lucas\source\repos\Avaliacao_Final_LucasDanielSilva\EncapsulamentoCinaraLucasDaniel\bin\Debug\EncapsulamentoCinaraLucasDaniel.exe.config
+C:\Users\lucas\source\repos\Avaliacao_Final_LucasDanielSilva\EncapsulamentoCinaraLucasDaniel\bin\Debug\EncapsulamentoCinaraLucasDaniel.exe
+C:\Users\lucas\source\repos\Avaliacao_Final_LucasDanielSilva\EncapsulamentoCinaraLucasDaniel\bin\Debug\EncapsulamentoCinaraLucasDaniel.pdb
+C:\Users\lucas\source\repos\Avaliacao_Final_LucasDanielSilva\EncapsulamentoCinaraLucasDaniel\obj\Debug\EncapsulamentoCinaraLucasDaniel.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Avaliacao_Final_LucasDanielSilva\EncapsulamentoCinaraLucasDaniel\obj\Debug\EncapsulamentoCinaraLucasDaniel.exe
+C:\Users\lucas\source\repos\Avaliacao_Final_LucasDanielSilva\EncapsulamentoCinaraLucasDaniel\obj\Debug\EncapsulamentoCinaraLucasDaniel.pdb

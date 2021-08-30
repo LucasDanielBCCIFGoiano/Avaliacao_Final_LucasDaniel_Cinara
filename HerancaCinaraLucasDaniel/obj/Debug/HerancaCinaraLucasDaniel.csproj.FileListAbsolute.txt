@@ -1,0 +1,6 @@
+C:\Users\lucas\source\repos\Avaliacao_Final_LucasDanielSilva\HerancaCinaraLucasDaniel\bin\Debug\HerancaCinaraLucasDaniel.exe.config
+C:\Users\lucas\source\repos\Avaliacao_Final_LucasDanielSilva\HerancaCinaraLucasDaniel\bin\Debug\HerancaCinaraLucasDaniel.exe
+C:\Users\lucas\source\repos\Avaliacao_Final_LucasDanielSilva\HerancaCinaraLucasDaniel\bin\Debug\HerancaCinaraLucasDaniel.pdb
+C:\Users\lucas\source\repos\Avaliacao_Final_LucasDanielSilva\HerancaCinaraLucasDaniel\obj\Debug\HerancaCinaraLucasDaniel.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Avaliacao_Final_LucasDanielSilva\HerancaCinaraLucasDaniel\obj\Debug\HerancaCinaraLucasDaniel.exe
+C:\Users\lucas\source\repos\Avaliacao_Final_LucasDanielSilva\HerancaCinaraLucasDaniel\obj\Debug\HerancaCinaraLucasDaniel.pdb

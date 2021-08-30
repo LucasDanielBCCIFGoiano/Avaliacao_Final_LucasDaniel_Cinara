@@ -1,0 +1,7 @@
+C:\Users\lucas\source\repos\Avaliacao_Final_LucasDanielSilva\PolimorfismoCinaraLucasDaniel\bin\Debug\PolimorfismoCinaraLucasDaniel.exe.config
+C:\Users\lucas\source\repos\Avaliacao_Final_LucasDanielSilva\PolimorfismoCinaraLucasDaniel\bin\Debug\PolimorfismoCinaraLucasDaniel.exe
+C:\Users\lucas\source\repos\Avaliacao_Final_LucasDanielSilva\PolimorfismoCinaraLucasDaniel\bin\Debug\PolimorfismoCinaraLucasDaniel.pdb
+C:\Users\lucas\source\repos\Avaliacao_Final_LucasDanielSilva\PolimorfismoCinaraLucasDaniel\obj\Debug\PolimorfismoCinaraLucasDaniel.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Avaliacao_Final_LucasDanielSilva\PolimorfismoCinaraLucasDaniel\obj\Debug\PolimorfismoCinaraLucasDaniel.exe
+C:\Users\lucas\source\repos\Avaliacao_Final_LucasDanielSilva\PolimorfismoCinaraLucasDaniel\obj\Debug\PolimorfismoCinaraLucasDaniel.pdb
+C:\Users\lucas\source\repos\Avaliacao_Final_LucasDanielSilva\PolimorfismoCinaraLucasDaniel\obj\Debug\PolimorfismoCinaraLucasDaniel.csproj.AssemblyReference.cache
